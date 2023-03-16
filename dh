@@ -5,7 +5,7 @@ until game:IsLoaded() and game.Players.LocalPlayer.Character:FindFirstChild("FUL
 wait(0.2)
 game.StarterGui:SetCore("SendNotification", {
 Title = "boundbyadam"; -- loaded 
-Text = "Loaded, thank you for purchasing!"; -- thank you!!
+Text = "animations made by adam";
 Duration = 5; -- how long the notification should in secounds
 })
 
